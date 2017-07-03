@@ -1,0 +1,19 @@
+{
+  "name": "mtgcsv",
+  "version": "1.0.0",
+  "description": "this converts mtgjson data to csv data",
+  "author": "Sergio Moura <mtgjson@andarilhomtg.com>",
+  "main": "mtgcsv.js",
+  "keywords": [
+    "csv",
+    "mtg",
+    "excel",
+    "magic the gathering"
+  ],
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "tiptoe": "^1.0.0"
+  }
+}
